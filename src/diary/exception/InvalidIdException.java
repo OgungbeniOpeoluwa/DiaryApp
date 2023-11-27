@@ -1,4 +1,4 @@
-package diary;
+package diary.exception;
 
 public class InvalidIdException extends RuntimeException {
     public InvalidIdException(String message) {

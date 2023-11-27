@@ -1,4 +1,4 @@
-package diary;
+package diary.exception;
 
 public class InvalidPinException extends RuntimeException{
     public InvalidPinException(String message) {
